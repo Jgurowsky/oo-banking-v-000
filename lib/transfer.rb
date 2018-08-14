@@ -17,4 +17,5 @@ class Transfer
     if self.status = "rejected"
       "Transaction rejected. Please check you account balance."
     end
+  end
 end
