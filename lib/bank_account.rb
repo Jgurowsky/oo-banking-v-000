@@ -17,6 +17,6 @@ class BankAccount
   end
 
   def valid?
-    @balance.valid? {|x| x > 0}
+    
   end
 end
