@@ -1,5 +1,5 @@
 class Transfer
-  def initializes
+  def initialize
 
   end
 end
